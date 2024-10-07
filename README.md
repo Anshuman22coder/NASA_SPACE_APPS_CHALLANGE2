@@ -6,8 +6,6 @@
 LIVE AT--(https://globetrottersquest.netlify.app/)
 
 
-=======
-# GLOBE Quest Web Application - README
 
 
 Welcome to *GLOBE Quest, an innovative and interactive web application designed to immerse students in the world of environmental education through engaging narratives, competitive gameplay, and real-world scientific challenges based on **NASA’s GLOBE Protocol*.
